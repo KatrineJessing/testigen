@@ -5,6 +5,5 @@ Useful links:
 [Is it Christmas?](https://isitchristmas.com)
 kjendewdjedn
 ## Formatting Examples:
-1. *Italic* emphasis.
-2. **Bold** emphasis.
-
+1. *Italic* emphasis/tekst
+2. **Bold** emphasis/tekst
